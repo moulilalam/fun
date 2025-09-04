@@ -9,7 +9,7 @@
     /* background-color: white; */
     display: flex;
 /*     flex-wrap: wrap; */
-    gap: 10px;
+    gap: 15px;
     justify-content: center;
     
     align-items: center;
@@ -140,6 +140,7 @@ body{
    }
 
 }
+
 
 
 
