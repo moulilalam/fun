@@ -5,16 +5,12 @@
 }
 .container{
    
-    /* height: 300px; */
     /* background-color: white; */
     display: flex;
     gap: 10px;
     justify-content: center;
-    
-    align-items: center;
-  
-    /* width: 100vw; */
     width: 600px;
+    align-items: center;
     border: 2px solid blue;
 
 }
@@ -23,7 +19,7 @@ body{
     background-color: black;
     display: flex;
     height:100vh;
-    width: 1535px;
+    /* width: 100%; */
     justify-content: center;
     align-items: center;
     border: 2px solid red;
@@ -31,8 +27,8 @@ body{
 }
 
 .sub1{ 
-    width: 40px;
-    height: 120px;
+    width: 2.5vw;
+    height: 11vh;
     background-color: lightcoral;
     border-radius: 20px;
     animation: x1 1s ease-in-out infinite;
@@ -60,8 +56,8 @@ body{
 
 }
 .sub2{
-    width: 40px;
-    height: 120px;
+    width: 2.5vw;
+    height: 11vh;
     background-color: lightcoral;
     border-radius: 20px;
      animation: x2 1s ease-in-out infinite;
@@ -88,8 +84,8 @@ body{
 
 }
 .sub3{
-    width: 40px;
-    height: 120px;
+    width: 2.5vw;
+    height: 11vh;
     background-color: lightcoral;
     border-radius: 20px;
     animation: x3 1s ease-in-out infinite;
@@ -114,8 +110,8 @@ body{
    }
 }
 .sub4{
-      width: 40px;
-    height: 120px;
+    width: 2.5vw;
+    height: 11vh;
     background-color: lightcoral;
     border-radius: 20px;
      animation: x4 1s ease-in-out infinite;
@@ -140,7 +136,6 @@ body{
    }
 
 }
-
 
 
 
